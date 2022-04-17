@@ -1,0 +1,38 @@
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\bin\Debug\PROEJKT.exe.config
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\bin\Debug\PROEJKT.exe
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\bin\Debug\PROEJKT.pdb
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\obj\Debug\PROEJKT.csprojAssemblyReference.cache
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\obj\Debug\PROEJKT.Properties.Resources.resources
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\obj\Debug\PROEJKT.csproj.GenerateResource.cache
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\obj\Debug\PROEJKT.csproj.CoreCompileInputs.cache
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\obj\Debug\PROEJKT.exe
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\obj\Debug\PROEJKT.pdb
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\obj\Debug\PROEJKT.FormMechanik.resources
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\obj\Debug\PROEJKT.FormAdd.resources
+C:\Users\polfr\source\repos\PROEJKT\PROEJKT\obj\Debug\PROEJKT.FormLogowanie.resources
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\bin\Debug\PROEJKT.exe.config
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\bin\Debug\PROEJKT.exe
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\bin\Debug\PROEJKT.pdb
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\PROEJKT.csprojAssemblyReference.cache
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\PROEJKT.Properties.Resources.resources
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\PROEJKT.csproj.GenerateResource.cache
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\PROEJKT.csproj.CoreCompileInputs.cache
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\PROEJKT.exe
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\PROEJKT.pdb
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\ProjektWarsztatSamochodowy.FormAdd.resources
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\ProjektWarsztatSamochodowy.FormLogowanie.resources
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\ProjektWarsztatSamochodowy.FormMechanik.resources
+C:\Users\polfr\OneDrive\Pulpit\PROEJKT\obj\Debug\ProjektWarsztatSamochodowy.FormRozliczenia.resources
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\bin\Debug\PROEJKT.exe.config
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\bin\Debug\PROEJKT.exe
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\bin\Debug\PROEJKT.pdb
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\PROEJKT.csprojAssemblyReference.cache
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\ProjektWarsztatSamochodowy.FormAdd.resources
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\ProjektWarsztatSamochodowy.FormLogowanie.resources
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\ProjektWarsztatSamochodowy.FormMechanik.resources
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\ProjektWarsztatSamochodowy.FormRozliczenia.resources
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\PROEJKT.Properties.Resources.resources
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\PROEJKT.csproj.GenerateResource.cache
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\PROEJKT.csproj.CoreCompileInputs.cache
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\PROEJKT.exe
+C:\Users\polfr\OneDrive\Pulpit\MaciejKaczmrekWarsztat\Maciej Kaczmarek\PROEJKT\obj\Debug\PROEJKT.pdb
